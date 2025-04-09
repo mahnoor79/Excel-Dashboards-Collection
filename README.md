@@ -29,7 +29,7 @@ Demonstrates use of logical formulas and weighted values to analyze salary distr
 ## 🔗 Find me on
 
 ### - 🌐 [Upwork Profile]/( [/freelancers/~01771486d6fd18d044?mp_source=share](https://www.upwork.com/freelancers/~01771486d6fd18d044)
-- 📈 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/mahnoor-naseer-ahmad/))
+- 📈 [LinkedIn] https://www.linkedin.com/in/mahnoor-naseer-ahmad/
 - 📩 Email: mahnoornoorg57@gmail.com
 
 ---
