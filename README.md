@@ -19,7 +19,7 @@ Insightful dashboard showing sales by month, country, region, and product. Helps
 Shows sales growth trends and quantity by customer segment and shipment class. Useful for profitability insights.
 
 ### 🔷[ [Excel 3rd Sales Dashboard (2023)](https://github.com/mahnoor79/Excel-3rd-Sales-Analysis-Dashboard)](https://github.com/mahnoor79/Excel-3rd-Sales-Analysis-Dashboard.git)
-Analyzes 2023 sales growth across Brazil and Chile. Reveals customer performance and product margins.
+Analyze 2023 sales growth across Brazil and Chile. Reveals customer performance and product margins.
 
 ### 🔷[ [Excel Formulas Concept - Salary Dataset](https://github.com/mahnoor79/Excel-formulas-concept)](https://github.com/mahnoor79/Excel-formulas-concept.git)
 Demonstrates use of logical formulas and weighted values to analyze salary distribution in a family dataset.
@@ -28,9 +28,9 @@ Demonstrates use of logical formulas and weighted values to analyze salary distr
 
 ## 🔗 Find me on
 
-- 🌐 [Upwork Profile]/( /freelancers/~01771486d6fd18d044?mp_source=share )
+### - 🌐 [Upwork Profile]/( [/freelancers/~01771486d6fd18d044?mp_source=share](https://www.upwork.com/freelancers/~01771486d6fd18d044)
 - 📈 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/mahnoor-naseer-ahmad/))
-- 📩 Email: your.email@example.com *(optional if public)*
+- 📩 Email: mahnoornoorg57@gmail.com
 
 ---
 
