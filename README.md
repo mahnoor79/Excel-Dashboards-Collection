@@ -27,6 +27,9 @@ Demonstrates use of logical formulas and weighted values to analyze salary distr
 ### 🔷 [Coffee Shop Sales Analysis Dashbaord] ([https://github.com/mahnoor79/Excel-formulas-concept)](https://github.com/mahnoor79/Excel-formulas-concept.git](https://github.com/mahnoor79/Coffee-Shop-Sale-Analysis-Dashboard.git))
 An insightful dashboard analyzing coffee shop sales trends, revenue, and customer behavior. It highlights key metrics to optimize sales strategies and track performance.
 
+### 🔷 [Adventure work SALES Analysis Dashboard] (https://github.com/mahnoor79/Adventure-Work-Sale-Analysis.git)
+This Excel dashboard breaks down sales by region, product, and time. It highlights key trends and insights to support smarter business decisions.
+
 ---
 
 ## 🔗 Find me on
