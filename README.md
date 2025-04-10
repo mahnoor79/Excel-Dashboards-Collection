@@ -24,10 +24,10 @@ Analyze 2023 sales growth across Brazil and Chile. Reveals customer performance 
 ### 🔷[ [Excel Formulas Concept - Salary Dataset](https://github.com/mahnoor79/Excel-formulas-concept)](https://github.com/mahnoor79/Excel-formulas-concept.git)
 Demonstrates use of logical formulas and weighted values to analyze salary distribution in a family dataset.
 
-### 🔷[ [Coffee Shop Sales Analysis Dashbaord] ([https://github.com/mahnoor79/Excel-formulas-concept)](https://github.com/mahnoor79/Excel-formulas-concept.git](https://github.com/mahnoor79/Coffee-Shop-Sale-Analysis-Dashboard.git))
+### 🔷 [ Coffee Shop Sales Analysis Dashbaord ] ([https://github.com/mahnoor79/Excel-formulas-concept)](https://github.com/mahnoor79/Excel-formulas-concept.git](https://github.com/mahnoor79/Coffee-Shop-Sale-Analysis-Dashboard.git))
 An insightful dashboard analyzing coffee shop sales trends, revenue, and customer behavior. It highlights key metrics to optimize sales strategies and track performance.
 
-### 🔷[ [Adventure work Sales Analysis Dashboard] (https://github.com/mahnoor79/Adventure-Work-Sale-Analysis.git)
+### 🔷[ Adventure work Sales Analysis Dashboard ] (https://github.com/mahnoor79/Adventure-Work-Sale-Analysis.git)
 This Excel dashboard breaks down sales by region, product, and time. It highlights key trends and insights to support smarter business decisions.
 
 ---
