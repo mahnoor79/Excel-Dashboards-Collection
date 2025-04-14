@@ -30,7 +30,7 @@ An insightful dashboard analyzing coffee shop sales trends, revenue, and custome
 ### 🔷[ Adventure work Sales Analysis Dashboard ] (https://github.com/mahnoor79/Adventure-Work-Sale-Analysis.git)
 This Excel dashboard breaks down sales by region, product, and time. It highlights key trends and insights to support smarter business decisions.
 
-🔷 [ Ecommerce Sales Analysis Dashboard (Excel)] (https://github.com/mahnoor79/Microsoft-excel-Ecommerce-Sale-Analysis-Dashboard-.git)
+### 🔷 [ Ecommerce Sales Analysis Dashboard (Excel)] (https://github.com/mahnoor79/Microsoft-excel-Ecommerce-Sale-Analysis-Dashboard-.git)
 
 Interactive Excel dashboard analyzing sales by category, region, customer segment, and order priority. Highlights include highest revenue from the Technology category and West region, with peak sales in November.
 
