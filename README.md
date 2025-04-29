@@ -34,11 +34,6 @@ This Excel dashboard breaks down sales by region, product, and time. It highligh
 
 Interactive Excel dashboard analyzing sales by category, region, customer segment, and order priority. Highlights include highest revenue from the Technology category and West region, with peak sales in November.
 
-### 7🔷 [ Bus Transportation Analysis Dashboard (Excel)] 
-
-Interactive dashboard analyzing bus utilization, rider flow by time, route efficiency, and weekday trends.
-
-
 
 ---
 
